@@ -1,0 +1,2011 @@
+{
+    "Porter": {
+        "increment": [
+            "D1"
+        ],
+        "angl": [
+            "D1",
+            "D5"
+        ],
+        "experiment": [
+            "D1"
+        ],
+        "agre": [
+            "D1"
+        ],
+        "propel": [
+            "D1"
+        ],
+        "treatment": [
+            "D1"
+        ],
+        "empir": [
+            "D1"
+        ],
+        "well": [
+            "D1"
+        ],
+        "differ": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "problem": [
+            "D1",
+            "D2",
+            "D3",
+            "D4"
+        ],
+        "specif": [
+            "D1"
+        ],
+        "destal": [
+            "D1"
+        ],
+        "span": [
+            "D1"
+        ],
+        "spanwis": [
+            "D1"
+        ],
+        "due": [
+            "D1"
+        ],
+        "theori": [
+            "D1",
+            "D5"
+        ],
+        "togeth": [
+            "D1"
+        ],
+        "effect": [
+            "D1",
+            "D2",
+            "D3",
+            "D6"
+        ],
+        "lift": [
+            "D1",
+            "D6"
+        ],
+        "stream": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "part": [
+            "D1"
+        ],
+        "order": [
+            "D1"
+        ],
+        "load": [
+            "D1"
+        ],
+        "substanti": [
+            "D1"
+        ],
+        "produc": [
+            "D1"
+        ],
+        "evid": [
+            "D1"
+        ],
+        "found": [
+            "D1"
+        ],
+        "theoret": [
+            "D1"
+        ],
+        "slipstream": [
+            "D1"
+        ],
+        "made": [
+            "D1",
+            "D3"
+        ],
+        "compar": [
+            "D1"
+        ],
+        "integr": [
+            "D1",
+            "D4",
+            "D6"
+        ],
+        "increas": [
+            "D1",
+            "D5"
+        ],
+        "curv": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "flow": [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D5"
+        ],
+        "support": [
+            "D1"
+        ],
+        "investig": [
+            "D1",
+            "D2"
+        ],
+        "control": [
+            "D1"
+        ],
+        "wing": [
+            "D1",
+            "D6"
+        ],
+        "subtract": [
+            "D1"
+        ],
+        "potenti": [
+            "D1"
+        ],
+        "determin": [
+            "D1"
+        ],
+        "free": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "result": [
+            "D1",
+            "D5",
+            "D6"
+        ],
+        "basi": [
+            "D1",
+            "D4"
+        ],
+        "studi": [
+            "D1",
+            "D2"
+        ],
+        "evalu": [
+            "D1"
+        ],
+        "veloc": [
+            "D1",
+            "D3",
+            "D4"
+        ],
+        "intend": [
+            "D1"
+        ],
+        "distribut": [
+            "D1",
+            "D3",
+            "D4",
+            "D6"
+        ],
+        "experi": [
+            "D1"
+        ],
+        "boundari": [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D6"
+        ],
+        "layer": [
+            "D1",
+            "D2",
+            "D3",
+            "D5",
+            "D6"
+        ],
+        "show": [
+            "D1",
+            "D3",
+            "D4"
+        ],
+        "attack": [
+            "D1"
+        ],
+        "remain": [
+            "D1"
+        ],
+        "aerodynam": [
+            "D1",
+            "D6"
+        ],
+        "configur": [
+            "D1"
+        ],
+        "ratio": [
+            "D1",
+            "D5"
+        ],
+        "irrot": [
+            "D2"
+        ],
+        "libbi": [
+            "D2"
+        ],
+        "viscos": [
+            "D2",
+            "D6"
+        ],
+        "approxim": [
+            "D2",
+            "D3",
+            "D5"
+        ],
+        "simpl": [
+            "D2",
+            "D5"
+        ],
+        "instanc": [
+            "D2"
+        ],
+        "paper": [
+            "D2"
+        ],
+        "novel": [
+            "D2"
+        ],
+        "treat": [
+            "D2",
+            "D4"
+        ],
+        "prandtl": [
+            "D2"
+        ],
+        "classic": [
+            "D2"
+        ],
+        "necessari": [
+            "D2"
+        ],
+        "shear": [
+            "D2",
+            "D3"
+        ],
+        "dimension": [
+            "D2",
+            "D3",
+            "D6"
+        ],
+        "past": [
+            "D2"
+        ],
+        "must": [
+            "D2"
+        ],
+        "possibl": [
+            "D2",
+            "D5"
+        ],
+        "fluid": [
+            "D2",
+            "D3"
+        ],
+        "vortic": [
+            "D2",
+            "D3"
+        ],
+        "origin": [
+            "D2"
+        ],
+        "consid": [
+            "D2",
+            "D3",
+            "D5"
+        ],
+        "flat": [
+            "D2",
+            "D3"
+        ],
+        "nose": [
+            "D2",
+            "D5"
+        ],
+        "discuss": [
+            "D2"
+        ],
+        "present": [
+            "D2",
+            "D4"
+        ],
+        "somewhat": [
+            "D2"
+        ],
+        "small": [
+            "D2"
+        ],
+        "hyperson": [
+            "D2",
+            "D5"
+        ],
+        "speed": [
+            "D2",
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "lead": [
+            "D2",
+            "D4"
+        ],
+        "ferri": [
+            "D2"
+        ],
+        "featur": [
+            "D2"
+        ],
+        "consequ": [
+            "D2",
+            "D4"
+        ],
+        "usual": [
+            "D2",
+            "D4"
+        ],
+        "high": [
+            "D2"
+        ],
+        "wave": [
+            "D2",
+            "D5"
+        ],
+        "incompress": [
+            "D2",
+            "D3"
+        ],
+        "emit": [
+            "D2"
+        ],
+        "exist": [
+            "D2"
+        ],
+        "region": [
+            "D2",
+            "D5"
+        ],
+        "rotat": [
+            "D2"
+        ],
+        "restrict": [
+            "D2"
+        ],
+        "shock": [
+            "D2",
+            "D5"
+        ],
+        "steadi": [
+            "D2",
+            "D3"
+        ],
+        "two": [
+            "D2",
+            "D3",
+            "D4",
+            "D6"
+        ],
+        "bodi": [
+            "D2",
+            "D4",
+            "D5"
+        ],
+        "recent": [
+            "D2"
+        ],
+        "aris": [
+            "D2"
+        ],
+        "edg": [
+            "D2"
+        ],
+        "outsid": [
+            "D2"
+        ],
+        "shown": [
+            "D2"
+        ],
+        "viscou": [
+            "D2"
+        ],
+        "plate": [
+            "D2",
+            "D3"
+        ],
+        "situat": [
+            "D2"
+        ],
+        "constant": [
+            "D2"
+        ],
+        "inviscid": [
+            "D2"
+        ],
+        "skin": [
+            "D3"
+        ],
+        "equat": [
+            "D3",
+            "D4",
+            "D5"
+        ],
+        "karman": [
+            "D3"
+        ],
+        "friction": [
+            "D3"
+        ],
+        "pohlhausen": [
+            "D3"
+        ],
+        "comparison": [
+            "D3"
+        ],
+        "techniqu": [
+            "D3"
+        ],
+        "laminar": [
+            "D3"
+        ],
+        "solut": [
+            "D3",
+            "D4"
+        ],
+        "also": [
+            "D3"
+        ],
+        "obtain": [
+            "D3"
+        ],
+        "uniform": [
+            "D3",
+            "D5"
+        ],
+        "thick": [
+            "D3"
+        ],
+        "accuraci": [
+            "D4"
+        ],
+        "linear": [
+            "D4"
+        ],
+        "method": [
+            "D4",
+            "D6"
+        ],
+        "shape": [
+            "D4"
+        ],
+        "fredholm": [
+            "D4"
+        ],
+        "second": [
+            "D4"
+        ],
+        "axial": [
+            "D4",
+            "D5"
+        ],
+        "defin": [
+            "D4"
+        ],
+        "interfer": [
+            "D4"
+        ],
+        "eas": [
+            "D4"
+        ],
+        "sourc": [
+            "D4"
+        ],
+        "solid": [
+            "D4"
+        ],
+        "need": [
+            "D4",
+            "D6"
+        ],
+        "pure": [
+            "D4"
+        ],
+        "use": [
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "704": [
+            "D4"
+        ],
+        "mention": [
+            "D4"
+        ],
+        "coordin": [
+            "D4"
+        ],
+        "program": [
+            "D4"
+        ],
+        "involv": [
+            "D4"
+        ],
+        "time": [
+            "D4"
+        ],
+        "solv": [
+            "D4"
+        ],
+        "area": [
+            "D4",
+            "D5"
+        ],
+        "gener": [
+            "D4",
+            "D5"
+        ],
+        "characterist": [
+            "D4",
+            "D6"
+        ],
+        "appli": [
+            "D4"
+        ],
+        "neumann": [
+            "D4"
+        ],
+        "field": [
+            "D4",
+            "D5"
+        ],
+        "sever": [
+            "D4"
+        ],
+        "arbitrari": [
+            "D4"
+        ],
+        "calcul": [
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "previous": [
+            "D4"
+        ],
+        "develop": [
+            "D4",
+            "D5"
+        ],
+        "whose": [
+            "D4"
+        ],
+        "anoth": [
+            "D4"
+        ],
+        "three": [
+            "D4"
+        ],
+        "deal": [
+            "D4"
+        ],
+        "upon": [
+            "D4"
+        ],
+        "surfac": [
+            "D4",
+            "D5"
+        ],
+        "seidel": [
+            "D4"
+        ],
+        "point": [
+            "D4"
+        ],
+        "inlet": [
+            "D4"
+        ],
+        "edpm": [
+            "D4"
+        ],
+        "non": [
+            "D4"
+        ],
+        "circulatori": [
+            "D4"
+        ],
+        "kind": [
+            "D4"
+        ],
+        "modifi": [
+            "D4"
+        ],
+        "presenc": [
+            "D4"
+        ],
+        "number": [
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "capabl": [
+            "D4"
+        ],
+        "low": [
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "entir": [
+            "D4"
+        ],
+        "minut": [
+            "D4"
+        ],
+        "almost": [
+            "D4"
+        ],
+        "requir": [
+            "D4"
+        ],
+        "plane": [
+            "D4"
+        ],
+        "either": [
+            "D4"
+        ],
+        "hour": [
+            "D4"
+        ],
+        "valu": [
+            "D4",
+            "D5"
+        ],
+        "within": [
+            "D4"
+        ],
+        "comput": [
+            "D4"
+        ],
+        "suction": [
+            "D4"
+        ],
+        "symmetri": [
+            "D4"
+        ],
+        "scope": [
+            "D4"
+        ],
+        "depend": [
+            "D4",
+            "D5"
+        ],
+        "symmetr": [
+            "D4"
+        ],
+        "set": [
+            "D4"
+        ],
+        "ibm": [
+            "D4"
+        ],
+        "profil": [
+            "D4"
+        ],
+        "one": [
+            "D4"
+        ],
+        "satisfactorili": [
+            "D4"
+        ],
+        "intern": [
+            "D4"
+        ],
+        "exact": [
+            "D4"
+        ],
+        "provid": [
+            "D4"
+        ],
+        "algebra": [
+            "D4"
+        ],
+        "300": [
+            "D4"
+        ],
+        "flare": [
+            "D5"
+        ],
+        "flap": [
+            "D5"
+        ],
+        "rang": [
+            "D5"
+        ],
+        "superson": [
+            "D5"
+        ],
+        "newtonian": [
+            "D5"
+        ],
+        "3": [
+            "D5",
+            "D6"
+        ],
+        "entropi": [
+            "D5"
+        ],
+        "vari": [
+            "D5"
+        ],
+        "flight": [
+            "D5"
+        ],
+        "pressur": [
+            "D5",
+            "D6"
+        ],
+        "secondari": [
+            "D5"
+        ],
+        "examin": [
+            "D5"
+        ],
+        "factor": [
+            "D5"
+        ],
+        "diminish": [
+            "D5"
+        ],
+        "view": [
+            "D5"
+        ],
+        "first": [
+            "D5"
+        ],
+        "case": [
+            "D5"
+        ],
+        "0": [
+            "D5"
+        ],
+        "forc": [
+            "D5"
+        ],
+        "stabil": [
+            "D5"
+        ],
+        "wedg": [
+            "D5"
+        ],
+        "ramp": [
+            "D5"
+        ],
+        "embed": [
+            "D5"
+        ],
+        "nonuniform": [
+            "D5"
+        ],
+        "convent": [
+            "D5"
+        ],
+        "greater": [
+            "D5"
+        ],
+        "local": [
+            "D5"
+        ],
+        "pitch": [
+            "D5"
+        ],
+        "simplest": [
+            "D5"
+        ],
+        "predict": [
+            "D5",
+            "D6"
+        ],
+        "coeffici": [
+            "D5"
+        ],
+        "expect": [
+            "D5"
+        ],
+        "main": [
+            "D5"
+        ],
+        "disturb": [
+            "D5"
+        ],
+        "bow": [
+            "D5"
+        ],
+        "variabl": [
+            "D5"
+        ],
+        "applic": [
+            "D5"
+        ],
+        "blunt": [
+            "D5"
+        ],
+        "dynam": [
+            "D5"
+        ],
+        "protrud": [
+            "D5"
+        ],
+        "initi": [
+            "D5"
+        ],
+        "locat": [
+            "D5"
+        ],
+        "give": [
+            "D5",
+            "D6"
+        ],
+        "incid": [
+            "D5"
+        ],
+        "singl": [
+            "D5"
+        ],
+        "moment": [
+            "D5"
+        ],
+        "thing": [
+            "D5"
+        ],
+        "process": [
+            "D5"
+        ],
+        "take": [
+            "D5"
+        ],
+        "1": [
+            "D5",
+            "D6"
+        ],
+        "suggest": [
+            "D5"
+        ],
+        "occur": [
+            "D5"
+        ],
+        "slope": [
+            "D5"
+        ],
+        "5": [
+            "D5"
+        ],
+        "revolut": [
+            "D5"
+        ],
+        "concept": [
+            "D5"
+        ],
+        "compress": [
+            "D5"
+        ],
+        "interest": [
+            "D5"
+        ],
+        "effici": [
+            "D5"
+        ],
+        "cone": [
+            "D5"
+        ],
+        "normal": [
+            "D5"
+        ],
+        "exampl": [
+            "D5"
+        ],
+        "revert": [
+            "D5"
+        ],
+        "impact": [
+            "D5"
+        ],
+        "base": [
+            "D5"
+        ],
+        "maximum": [
+            "D5"
+        ],
+        "lower": [
+            "D5"
+        ],
+        "mount": [
+            "D5"
+        ],
+        "may": [
+            "D5"
+        ],
+        "behind": [
+            "D5"
+        ],
+        "thin": [
+            "D5"
+        ],
+        "larg": [
+            "D5"
+        ],
+        "101": [
+            "D6"
+        ],
+        "growth": [
+            "D6"
+        ],
+        "x10": [
+            "D6"
+        ],
+        "cent": [
+            "D6"
+        ],
+        "per": [
+            "D6"
+        ],
+        "centr": [
+            "D6"
+        ],
+        "still": [
+            "D6"
+        ],
+        "enough": [
+            "D6"
+        ],
+        "conclud": [
+            "D6"
+        ],
+        "reynold": [
+            "D6"
+        ],
+        "6": [
+            "D6"
+        ],
+        "center": [
+            "D6"
+        ],
+        "check": [
+            "D6"
+        ],
+        "drag": [
+            "D6"
+        ],
+        "2": [
+            "D6"
+        ],
+        "littl": [
+            "D6"
+        ],
+        "refin": [
+            "D6"
+        ],
+        "10": [
+            "D6"
+        ],
+        "given": [
+            "D6"
+        ],
+        "travers": [
+            "D6"
+        ],
+        "known": [
+            "D6"
+        ],
+        "measur": [
+            "D6"
+        ],
+        "turbul": [
+            "D6"
+        ],
+        "accur": [
+            "D6"
+        ],
+        "section": [
+            "D6"
+        ],
+        "rae": [
+            "D6"
+        ],
+        "actual": [
+            "D6"
+        ]
+    },
+    "Lancaster": {
+        "angl": [
+            "D1",
+            "D5"
+        ],
+        "study": [
+            "D1",
+            "D2"
+        ],
+        "config": [
+            "D1"
+        ],
+        "propel": [
+            "D1"
+        ],
+        "empir": [
+            "D1"
+        ],
+        "lay": [
+            "D1",
+            "D2",
+            "D3",
+            "D5",
+            "D6"
+        ],
+        "agr": [
+            "D1"
+        ],
+        "incr": [
+            "D1"
+        ],
+        "problem": [
+            "D1",
+            "D2",
+            "D3",
+            "D4"
+        ],
+        "destal": [
+            "D1"
+        ],
+        "span": [
+            "D1"
+        ],
+        "bas": [
+            "D1",
+            "D4",
+            "D5"
+        ],
+        "tre": [
+            "D1",
+            "D2",
+            "D4"
+        ],
+        "spanw": [
+            "D1"
+        ],
+        "bound": [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D6"
+        ],
+        "ord": [
+            "D1"
+        ],
+        "due": [
+            "D1"
+        ],
+        "togeth": [
+            "D1"
+        ],
+        "diff": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "effect": [
+            "D1",
+            "D2",
+            "D3",
+            "D6"
+        ],
+        "lift": [
+            "D1",
+            "D6"
+        ],
+        "stream": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "part": [
+            "D1"
+        ],
+        "subst": [
+            "D1"
+        ],
+        "load": [
+            "D1"
+        ],
+        "produc": [
+            "D1"
+        ],
+        "pot": [
+            "D1"
+        ],
+        "evid": [
+            "D1"
+        ],
+        "found": [
+            "D1"
+        ],
+        "theoret": [
+            "D1"
+        ],
+        "slipstream": [
+            "D1"
+        ],
+        "integr": [
+            "D1",
+            "D4",
+            "D6"
+        ],
+        "increas": [
+            "D1",
+            "D5"
+        ],
+        "curv": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "flow": [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D5"
+        ],
+        "wel": [
+            "D1"
+        ],
+        "support": [
+            "D1"
+        ],
+        "investig": [
+            "D1",
+            "D2"
+        ],
+        "control": [
+            "D1"
+        ],
+        "expery": [
+            "D1"
+        ],
+        "wing": [
+            "D1",
+            "D6"
+        ],
+        "the": [
+            "D1",
+            "D5"
+        ],
+        "subtract": [
+            "D1"
+        ],
+        "spec": [
+            "D1"
+        ],
+        "determin": [
+            "D1"
+        ],
+        "fre": [
+            "D1",
+            "D2",
+            "D5"
+        ],
+        "mad": [
+            "D1",
+            "D3"
+        ],
+        "result": [
+            "D1",
+            "D5",
+            "D6"
+        ],
+        "evalu": [
+            "D1"
+        ],
+        "veloc": [
+            "D1",
+            "D3",
+            "D4"
+        ],
+        "intend": [
+            "D1"
+        ],
+        "distribut": [
+            "D1",
+            "D3",
+            "D4",
+            "D6"
+        ],
+        "comp": [
+            "D1"
+        ],
+        "show": [
+            "D1",
+            "D3",
+            "D4"
+        ],
+        "attack": [
+            "D1"
+        ],
+        "remain": [
+            "D1"
+        ],
+        "aerodynam": [
+            "D1",
+            "D6"
+        ],
+        "ratio": [
+            "D1",
+            "D5"
+        ],
+        "irrot": [
+            "D2"
+        ],
+        "dimend": [
+            "D2",
+            "D3",
+            "D6"
+        ],
+        "viscos": [
+            "D2",
+            "D6"
+        ],
+        "approxim": [
+            "D2",
+            "D3",
+            "D5"
+        ],
+        "simpl": [
+            "D2",
+            "D5"
+        ],
+        "smal": [
+            "D2"
+        ],
+        "pap": [
+            "D2"
+        ],
+        "novel": [
+            "D2"
+        ],
+        "poss": [
+            "D2",
+            "D5"
+        ],
+        "prandtl": [
+            "D2"
+        ],
+        "shear": [
+            "D2",
+            "D3"
+        ],
+        "past": [
+            "D2"
+        ],
+        "must": [
+            "D2"
+        ],
+        "steady": [
+            "D2",
+            "D3"
+        ],
+        "necess": [
+            "D2"
+        ],
+        "fluid": [
+            "D2",
+            "D3"
+        ],
+        "rot": [
+            "D2"
+        ],
+        "inst": [
+            "D2"
+        ],
+        "consid": [
+            "D2",
+            "D3",
+            "D5"
+        ],
+        "origin": [
+            "D2"
+        ],
+        "flat": [
+            "D2",
+            "D3"
+        ],
+        "vort": [
+            "D2",
+            "D3"
+        ],
+        "ferr": [
+            "D2"
+        ],
+        "body": [
+            "D2",
+            "D4",
+            "D5"
+        ],
+        "nos": [
+            "D2",
+            "D5"
+        ],
+        "discuss": [
+            "D2"
+        ],
+        "wav": [
+            "D2",
+            "D5"
+        ],
+        "pres": [
+            "D2",
+            "D4"
+        ],
+        "ar": [
+            "D2"
+        ],
+        "hyperson": [
+            "D2",
+            "D5"
+        ],
+        "lead": [
+            "D2",
+            "D4"
+        ],
+        "rec": [
+            "D2"
+        ],
+        "plat": [
+            "D2",
+            "D3"
+        ],
+        "consequ": [
+            "D2",
+            "D4"
+        ],
+        "visc": [
+            "D2"
+        ],
+        "somewh": [
+            "D2"
+        ],
+        "high": [
+            "D2"
+        ],
+        "incompress": [
+            "D2",
+            "D3"
+        ],
+        "emit": [
+            "D2"
+        ],
+        "restrict": [
+            "D2"
+        ],
+        "class": [
+            "D2"
+        ],
+        "shock": [
+            "D2",
+            "D5"
+        ],
+        "two": [
+            "D2",
+            "D3",
+            "D4",
+            "D6"
+        ],
+        "reg": [
+            "D2",
+            "D5"
+        ],
+        "us": [
+            "D2",
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "edg": [
+            "D2"
+        ],
+        "ex": [
+            "D2"
+        ],
+        "outsid": [
+            "D2"
+        ],
+        "shown": [
+            "D2"
+        ],
+        "libby": [
+            "D2"
+        ],
+        "feat": [
+            "D2"
+        ],
+        "spee": [
+            "D2",
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "const": [
+            "D2"
+        ],
+        "situ": [
+            "D2"
+        ],
+        "inviscid": [
+            "D2"
+        ],
+        "frict": [
+            "D3"
+        ],
+        "skin": [
+            "D3"
+        ],
+        "karm": [
+            "D3"
+        ],
+        "lamin": [
+            "D3"
+        ],
+        "techn": [
+            "D3"
+        ],
+        "comparison": [
+            "D3"
+        ],
+        "also": [
+            "D3"
+        ],
+        "obtain": [
+            "D3"
+        ],
+        "pohlhaus": [
+            "D3"
+        ],
+        "uniform": [
+            "D3",
+            "D5"
+        ],
+        "thick": [
+            "D3"
+        ],
+        "solv": [
+            "D3",
+            "D4"
+        ],
+        "equ": [
+            "D3",
+            "D4",
+            "D5"
+        ],
+        "linear": [
+            "D4"
+        ],
+        "method": [
+            "D4",
+            "D6"
+        ],
+        "fredholm": [
+            "D4"
+        ],
+        "second": [
+            "D4",
+            "D5"
+        ],
+        "ment": [
+            "D4"
+        ],
+        "defin": [
+            "D4"
+        ],
+        "eas": [
+            "D4"
+        ],
+        "arbit": [
+            "D4"
+        ],
+        "suct": [
+            "D4"
+        ],
+        "on": [
+            "D4"
+        ],
+        "sourc": [
+            "D4"
+        ],
+        "solid": [
+            "D4"
+        ],
+        "704": [
+            "D4"
+        ],
+        "gen": [
+            "D4",
+            "D5"
+        ],
+        "coordin": [
+            "D4"
+        ],
+        "program": [
+            "D4"
+        ],
+        "involv": [
+            "D4"
+        ],
+        "satisfact": [
+            "D4"
+        ],
+        "apply": [
+            "D4"
+        ],
+        "symmetry": [
+            "D4"
+        ],
+        "tim": [
+            "D4"
+        ],
+        "numb": [
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "eith": [
+            "D4"
+        ],
+        "field": [
+            "D4",
+            "D5"
+        ],
+        "whos": [
+            "D4"
+        ],
+        "calc": [
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "charact": [
+            "D4",
+            "D6"
+        ],
+        "scop": [
+            "D4"
+        ],
+        "develop": [
+            "D4",
+            "D5"
+        ],
+        "circ": [
+            "D4"
+        ],
+        "symmet": [
+            "D4"
+        ],
+        "cap": [
+            "D4"
+        ],
+        "prevy": [
+            "D4"
+        ],
+        "anoth": [
+            "D4"
+        ],
+        "three": [
+            "D4"
+        ],
+        "deal": [
+            "D4"
+        ],
+        "sev": [
+            "D4"
+        ],
+        "upon": [
+            "D4"
+        ],
+        "surfac": [
+            "D4",
+            "D5"
+        ],
+        "seidel": [
+            "D4"
+        ],
+        "point": [
+            "D4"
+        ],
+        "inlet": [
+            "D4"
+        ],
+        "plan": [
+            "D4"
+        ],
+        "edpm": [
+            "D4"
+        ],
+        "non": [
+            "D4"
+        ],
+        "nee": [
+            "D4",
+            "D6"
+        ],
+        "kind": [
+            "D4"
+        ],
+        "interf": [
+            "D4"
+        ],
+        "low": [
+            "D4",
+            "D5",
+            "D6"
+        ],
+        "entir": [
+            "D4"
+        ],
+        "minut": [
+            "D4"
+        ],
+        "almost": [
+            "D4"
+        ],
+        "requir": [
+            "D4"
+        ],
+        "hour": [
+            "D4"
+        ],
+        "valu": [
+            "D4",
+            "D5"
+        ],
+        "within": [
+            "D4"
+        ],
+        "comput": [
+            "D4"
+        ],
+        "depend": [
+            "D4",
+            "D5"
+        ],
+        "set": [
+            "D4"
+        ],
+        "are": [
+            "D4"
+        ],
+        "shap": [
+            "D4"
+        ],
+        "ibm": [
+            "D4"
+        ],
+        "profil": [
+            "D4"
+        ],
+        "neuman": [
+            "D4"
+        ],
+        "mod": [
+            "D4"
+        ],
+        "ax": [
+            "D4",
+            "D5"
+        ],
+        "pur": [
+            "D4"
+        ],
+        "intern": [
+            "D4"
+        ],
+        "exact": [
+            "D4"
+        ],
+        "provid": [
+            "D4"
+        ],
+        "algebra": [
+            "D4"
+        ],
+        "300": [
+            "D4"
+        ],
+        "acc": [
+            "D4",
+            "D6"
+        ],
+        "conv": [
+            "D5"
+        ],
+        "flap": [
+            "D5"
+        ],
+        "mom": [
+            "D5"
+        ],
+        "stabl": [
+            "D5"
+        ],
+        "rang": [
+            "D5"
+        ],
+        "maxim": [
+            "D5"
+        ],
+        "loc": [
+            "D5"
+        ],
+        "superson": [
+            "D5"
+        ],
+        "3": [
+            "D5",
+            "D6"
+        ],
+        "norm": [
+            "D5"
+        ],
+        "flight": [
+            "D5"
+        ],
+        "examin": [
+            "D5"
+        ],
+        "view": [
+            "D5"
+        ],
+        "first": [
+            "D5"
+        ],
+        "coefficy": [
+            "D5"
+        ],
+        "dimin": [
+            "D5"
+        ],
+        "area": [
+            "D5"
+        ],
+        "0": [
+            "D5"
+        ],
+        "forc": [
+            "D5"
+        ],
+        "fact": [
+            "D5"
+        ],
+        "cas": [
+            "D5"
+        ],
+        "wedg": [
+            "D5"
+        ],
+        "ramp": [
+            "D5"
+        ],
+        "embed": [
+            "D5"
+        ],
+        "nonuniform": [
+            "D5"
+        ],
+        "giv": [
+            "D5",
+            "D6"
+        ],
+        "pitch": [
+            "D5"
+        ],
+        "simplest": [
+            "D5"
+        ],
+        "predict": [
+            "D5",
+            "D6"
+        ],
+        "newton": [
+            "D5"
+        ],
+        "expect": [
+            "D5"
+        ],
+        "revolv": [
+            "D5"
+        ],
+        "entrop": [
+            "D5"
+        ],
+        "main": [
+            "D5"
+        ],
+        "flar": [
+            "D5"
+        ],
+        "disturb": [
+            "D5"
+        ],
+        "bow": [
+            "D5"
+        ],
+        "slop": [
+            "D5"
+        ],
+        "tak": [
+            "D5"
+        ],
+        "press": [
+            "D5",
+            "D6"
+        ],
+        "blunt": [
+            "D5"
+        ],
+        "dynam": [
+            "D5"
+        ],
+        "protrud": [
+            "D5"
+        ],
+        "efficy": [
+            "D5"
+        ],
+        "appl": [
+            "D5"
+        ],
+        "incid": [
+            "D5"
+        ],
+        "singl": [
+            "D5"
+        ],
+        "thing": [
+            "D5"
+        ],
+        "vary": [
+            "D5"
+        ],
+        "process": [
+            "D5"
+        ],
+        "1": [
+            "D5",
+            "D6"
+        ],
+        "suggest": [
+            "D5"
+        ],
+        "occ": [
+            "D5"
+        ],
+        "init": [
+            "D5"
+        ],
+        "5": [
+            "D5"
+        ],
+        "compress": [
+            "D5"
+        ],
+        "interest": [
+            "D5"
+        ],
+        "exampl": [
+            "D5"
+        ],
+        "revert": [
+            "D5"
+        ],
+        "con": [
+            "D5"
+        ],
+        "impact": [
+            "D5"
+        ],
+        "streams": [
+            "D5"
+        ],
+        "mount": [
+            "D5"
+        ],
+        "conceiv": [
+            "D5"
+        ],
+        "may": [
+            "D5"
+        ],
+        "behind": [
+            "D5"
+        ],
+        "thin": [
+            "D5"
+        ],
+        "gre": [
+            "D5"
+        ],
+        "larg": [
+            "D5"
+        ],
+        "101": [
+            "D6"
+        ],
+        "x10": [
+            "D6"
+        ],
+        "meas": [
+            "D6"
+        ],
+        "cent": [
+            "D6"
+        ],
+        "per": [
+            "D6"
+        ],
+        "enough": [
+            "D6"
+        ],
+        "conclud": [
+            "D6"
+        ],
+        "reynold": [
+            "D6"
+        ],
+        "6": [
+            "D6"
+        ],
+        "check": [
+            "D6"
+        ],
+        "drag": [
+            "D6"
+        ],
+        "stil": [
+            "D6"
+        ],
+        "act": [
+            "D6"
+        ],
+        "2": [
+            "D6"
+        ],
+        "sect": [
+            "D6"
+        ],
+        "littl": [
+            "D6"
+        ],
+        "refin": [
+            "D6"
+        ],
+        "turb": [
+            "D6"
+        ],
+        "10": [
+            "D6"
+        ],
+        "travers": [
+            "D6"
+        ],
+        "known": [
+            "D6"
+        ],
+        "rae": [
+            "D6"
+        ],
+        "grow": [
+            "D6"
+        ]
+    }
+}
