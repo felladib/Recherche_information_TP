@@ -1,8 +1,4 @@
 ### TP Recherche d'Information
-
-```markdown
-# TP Recherche d'Information
-
 ## Description
 Ce TP se concentre sur les techniques de recherche d'information et d'extraction de données textuelles. L'objectif est d'implémenter des algorithmes permettant d'indexer, de rechercher et de filtrer des documents en fonction de requêtes.
 
