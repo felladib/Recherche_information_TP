@@ -16,4 +16,4 @@ Ce TP se concentre sur les techniques de recherche d'information et d'extraction
 1. Cloner le dépôt : 
    ```bash
    git clone <url-du-repo>
-```
+   ```
