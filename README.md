@@ -1,6 +1,3 @@
-
----
-
 ### TP Recherche d'Information
 
 ```markdown
