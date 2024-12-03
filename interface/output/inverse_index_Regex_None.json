@@ -1,0 +1,2440 @@
+{
+    "experimental": {
+        "D1": {
+            "freq": 2,
+            "poids": 0.338
+        }
+    },
+    "investigation": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "aerodynamics": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "wing": {
+        "D1": {
+            "freq": 3,
+            "poids": 0.3612
+        },
+        "D6": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "slipstream": {
+        "D1": {
+            "freq": 5,
+            "poids": 0.8451
+        }
+    },
+    "study": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        }
+    },
+    "propeller": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "made": {
+        "D1": {
+            "freq": 2,
+            "poids": 0.2408
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "order": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "determine": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "spanwise": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "distribution": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.0796
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.0995
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.0995
+        },
+        "D6": {
+            "freq": 2,
+            "poids": 0.199
+        }
+    },
+    "lift": {
+        "D1": {
+            "freq": 4,
+            "poids": 0.4816
+        },
+        "D6": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "increase": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "due": {
+        "D1": {
+            "freq": 2,
+            "poids": 0.338
+        }
+    },
+    "different": {
+        "D1": {
+            "freq": 3,
+            "poids": 0.3612
+        },
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        }
+    },
+    "angles": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "attack": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "free": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D2": {
+            "freq": 3,
+            "poids": 0.301
+        }
+    },
+    "stream": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "D2": {
+            "freq": 3,
+            "poids": 0.2386
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.0682
+        }
+    },
+    "velocity": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "ratios": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "results": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D6": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "intended": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "part": {
+        "D1": {
+            "freq": 2,
+            "poids": 0.338
+        }
+    },
+    "evaluation": {
+        "D1": {
+            "freq": 2,
+            "poids": 0.338
+        }
+    },
+    "basis": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "theoretical": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "treatments": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "problem": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.0796
+        },
+        "D2": {
+            "freq": 4,
+            "poids": 0.2653
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.0995
+        },
+        "D4": {
+            "freq": 2,
+            "poids": 0.199
+        }
+    },
+    "comparative": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "span": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "loading": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "curves": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "together": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "supporting": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "evidence": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "showed": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "substantial": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "increment": {
+        "D1": {
+            "freq": 2,
+            "poids": 0.338
+        }
+    },
+    "produced": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "destalling": {
+        "D1": {
+            "freq": 3,
+            "poids": 0.5071
+        }
+    },
+    "boundary-layer-control": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "effect": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1193
+        }
+    },
+    "integrated": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "remaining": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "subtracting": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "found": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "agree": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "well": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "potential": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "flow": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.0685
+        },
+        "D2": {
+            "freq": 6,
+            "poids": 0.3424
+        },
+        "D3": {
+            "freq": 3,
+            "poids": 0.2568
+        },
+        "D4": {
+            "freq": 4,
+            "poids": 0.3424
+        },
+        "D5": {
+            "freq": 5,
+            "poids": 0.2446
+        }
+    },
+    "theory": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "D5": {
+            "freq": 4,
+            "poids": 0.344
+        }
+    },
+    "empirical": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "effects": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "D2": {
+            "freq": 1,
+            "poids": 0.0795
+        },
+        "D6": {
+            "freq": 2,
+            "poids": 0.2386
+        }
+    },
+    "specific": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "configuration": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "experiment": {
+        "D1": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "simple": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D5": {
+            "freq": 2,
+            "poids": 0.172
+        }
+    },
+    "shear": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D3": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "past": {
+        "D2": {
+            "freq": 4,
+            "poids": 0.5634
+        }
+    },
+    "flat": {
+        "D2": {
+            "freq": 3,
+            "poids": 0.301
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "plate": {
+        "D2": {
+            "freq": 3,
+            "poids": 0.301
+        },
+        "D3": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "incompressible": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D3": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "fluid": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "small": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2817
+        }
+    },
+    "viscosity": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "high-speed": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "viscous": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2817
+        }
+    },
+    "two-dimensional": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.159
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1193
+        }
+    },
+    "body": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D4": {
+            "freq": 3,
+            "poids": 0.4515
+        }
+    },
+    "usually": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "necessary": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "consider": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "curved": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "shock": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D5": {
+            "freq": 5,
+            "poids": 0.43
+        }
+    },
+    "wave": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D5": {
+            "freq": 4,
+            "poids": 0.344
+        }
+    },
+    "emitting": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "nose": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "leading": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "edge": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "consequently": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "exists": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "inviscid": {
+        "D2": {
+            "freq": 3,
+            "poids": 0.4225
+        }
+    },
+    "rotational": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2817
+        }
+    },
+    "region": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "boundary": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.159
+        },
+        "D3": {
+            "freq": 4,
+            "poids": 0.4771
+        },
+        "D6": {
+            "freq": 3,
+            "poids": 0.3578
+        }
+    },
+    "layer": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.1326
+        },
+        "D3": {
+            "freq": 4,
+            "poids": 0.3979
+        },
+        "D5": {
+            "freq": 2,
+            "poids": 0.1137
+        },
+        "D6": {
+            "freq": 3,
+            "poids": 0.2985
+        }
+    },
+    "situation": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2817
+        }
+    },
+    "arises": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "instance": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "hypersonic": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D5": {
+            "freq": 3,
+            "poids": 0.258
+        }
+    },
+    "somewhat": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "prandtl": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2817
+        }
+    },
+    "classical": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "boundary-layer": {
+        "D2": {
+            "freq": 3,
+            "poids": 0.2386
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "D6": {
+            "freq": 3,
+            "poids": 0.3578
+        }
+    },
+    "original": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "outside": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "irrotational": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "must": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "considered": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.0795
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.0682
+        }
+    },
+    "possible": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "vorticity": {
+        "D2": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "recently": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "discussed": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "ferri": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "libby": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "present": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "paper": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "investigated": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "shown": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "treated": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "approximation": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "novel": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "feature": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "constant": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "discussion": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "restricted": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1408
+        }
+    },
+    "steady": {
+        "D2": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "approximate": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "solutions": {
+        "D3": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "laminar": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "equations": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.0682
+        }
+    },
+    "thickness": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "skin": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "friction": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "obtained": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "karman-pohlhausen": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "technique": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "comparison": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "uniform": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "also": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "show": {
+        "D3": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "exact": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "solution": {
+        "D4": {
+            "freq": 3,
+            "poids": 0.6338
+        }
+    },
+    "neumann": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "calculation": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "D6": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "non": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "circulatory": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "plane": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "axially": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "symmetric": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "flows": {
+        "D4": {
+            "freq": 3,
+            "poids": 0.6338
+        }
+    },
+    "within": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "arbitrary": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "boundaries": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "general": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "method": {
+        "D4": {
+            "freq": 4,
+            "poids": 0.8451
+        }
+    },
+    "solving": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "second": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "boundary-value": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "developed": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "applied": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "low-speed": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "bodies": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "almost": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "shape": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "provided": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "either": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "axial": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "symmetry": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "solid-body": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "inlet": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "purely": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "internal": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "problems": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "solved": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "capable": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "dealing": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "several": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "presence": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "one": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "another": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "interference": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "ease": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "need": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "solid": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "involving": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "area": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "suction": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "calculated": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.0682
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1193
+        }
+    },
+    "velocities": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "computed": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "points": {
+        "D4": {
+            "freq": 3,
+            "poids": 0.6338
+        }
+    },
+    "surface": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "D5": {
+            "freq": 3,
+            "poids": 0.258
+        }
+    },
+    "entire": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "field": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "source": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "used": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "leads": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "fredholm": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "integral": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "equation": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "kind": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "set": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "linear": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "algebraic": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "modified": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "seidel": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "time": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "programed": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "ibm": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "704": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "edpm": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "solve": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "previously": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "mentioned": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "characteristics": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "D6": {
+            "freq": 2,
+            "poids": 0.301
+        }
+    },
+    "whose": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "profile": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "defined": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "satisfactorily": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "300": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "coordinate": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "number": {
+        "D4": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        }
+    },
+    "presented": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "scope": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "accuracy": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "computations": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "require": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "three": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "minutes": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "two": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "hours": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "depending": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "upon": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "define": {
+        "D4": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "secondary": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "fields": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "embedded": {
+        "D5": {
+            "freq": 3,
+            "poids": 0.3622
+        }
+    },
+    "layers": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "ramp": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "compression": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "located": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "locally": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "supersonic": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "behind": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "bow": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "generates": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "disturbance": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "may": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "viewed": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "newtonian": {
+        "D5": {
+            "freq": 7,
+            "poids": 0.8451
+        }
+    },
+    "impact": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "thin": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "examination": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "applicability": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "cones": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "wedges": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "streams": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "suggests": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "expected": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "give": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "useful": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "pressures": {
+        "D5": {
+            "freq": 4,
+            "poids": 0.4829
+        }
+    },
+    "pressure": {
+        "D5": {
+            "freq": 6,
+            "poids": 0.5161
+        },
+        "D6": {
+            "freq": 4,
+            "poids": 0.6021
+        }
+    },
+    "based": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "concept": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "predicts": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "interesting": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "things": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "first": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "differ": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "factors": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "1.5": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "3": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "example": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "flare": {
+        "D5": {
+            "freq": 4,
+            "poids": 0.4829
+        }
+    },
+    "stabilizers": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "blunt-nosed": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "revolution": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "lower": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "diminish": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "increasing": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "flight": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "speed": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.172
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "range": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "vary": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "result": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "nonuniformity": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "incident": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "depend": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "location": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "case": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "flap": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "mounted": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "large-angled": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "cone": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "coefficients": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "1": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "5": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "variable": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "entropy": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "coefficient": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "greater": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "maximum": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "occur": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "process": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "efficient": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "single": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "areas": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "protrude": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "main": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "revert": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "value": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "initial": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "slopes": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "normal-force": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "pitching-moment": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "stabilizer": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "simplest": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "conventional": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "ratio": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "local": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "dynamic": {
+        "D5": {
+            "freq": 2,
+            "poids": 0.2415
+        }
+    },
+    "free-stream": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "takes": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "values": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "low": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.086
+        },
+        "D6": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "0.1": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "examples": {
+        "D5": {
+            "freq": 1,
+            "poids": 0.1207
+        }
+    },
+    "measurements": {
+        "D6": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "dimensional": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "given": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "traverses": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "10": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "per": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "cent": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "rae": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "101": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "section": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "reynolds": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "numbers": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "1.6x10": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "3.2x10": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "drag": {
+        "D6": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "aerodynamic-centre": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "check": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "methods": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "growth": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "turbulent": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "known": {
+        "D6": {
+            "freq": 2,
+            "poids": 0.4225
+        }
+    },
+    "concluded": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "still": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "needs": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "little": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "refinement": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "accurate": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "enough": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "predict": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "aerodynamic": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "center": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    },
+    "actual": {
+        "D6": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    }
+}

@@ -1,0 +1,1602 @@
+{
+    "D1": {
+        "expery": {
+            "freq": 3,
+            "poids": 0.5071
+        },
+        "investig": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "aerodynam": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "wing": {
+            "freq": 3,
+            "poids": 0.3612
+        },
+        "slipstream": {
+            "freq": 5,
+            "poids": 0.8451
+        },
+        "study": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "propel": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "mad": {
+            "freq": 2,
+            "poids": 0.2408
+        },
+        "ord": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "determin": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "spanw": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "distribut": {
+            "freq": 1,
+            "poids": 0.0796
+        },
+        "lift": {
+            "freq": 4,
+            "poids": 0.4816
+        },
+        "increas": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "due": {
+            "freq": 2,
+            "poids": 0.338
+        },
+        "diff": {
+            "freq": 3,
+            "poids": 0.2863
+        },
+        "angl": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "attack": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "fre": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "stream": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "veloc": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "ratio": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "result": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "intend": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "part": {
+            "freq": 2,
+            "poids": 0.338
+        },
+        "evalu": {
+            "freq": 2,
+            "poids": 0.338
+        },
+        "bas": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "theoret": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "tre": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "problem": {
+            "freq": 1,
+            "poids": 0.0796
+        },
+        "comp": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "span": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "load": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "curv": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "togeth": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "support": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "evid": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "show": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "subst": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "incr": {
+            "freq": 2,
+            "poids": 0.338
+        },
+        "produc": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "destal": {
+            "freq": 3,
+            "poids": 0.5071
+        },
+        "boundary-layer-control": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "effect": {
+            "freq": 2,
+            "poids": 0.1592
+        },
+        "integr": {
+            "freq": 1,
+            "poids": 0.0954
+        },
+        "remain": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "subtract": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "found": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "agr": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "wel": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "pot": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "flow": {
+            "freq": 1,
+            "poids": 0.0685
+        },
+        "the": {
+            "freq": 1,
+            "poids": 0.1204
+        },
+        "empir": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "spec": {
+            "freq": 1,
+            "poids": 0.169
+        },
+        "config": {
+            "freq": 1,
+            "poids": 0.169
+        }
+    },
+    "D2": {
+        "simpl": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "shear": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "flow": {
+            "freq": 6,
+            "poids": 0.3424
+        },
+        "past": {
+            "freq": 4,
+            "poids": 0.5634
+        },
+        "flat": {
+            "freq": 3,
+            "poids": 0.301
+        },
+        "plat": {
+            "freq": 3,
+            "poids": 0.301
+        },
+        "incompress": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "fluid": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "smal": {
+            "freq": 2,
+            "poids": 0.2817
+        },
+        "viscos": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "study": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "high-speed": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "visc": {
+            "freq": 2,
+            "poids": 0.2817
+        },
+        "two-dimensional": {
+            "freq": 2,
+            "poids": 0.159
+        },
+        "body": {
+            "freq": 2,
+            "poids": 0.159
+        },
+        "us": {
+            "freq": 1,
+            "poids": 0.0663
+        },
+        "necess": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "consid": {
+            "freq": 2,
+            "poids": 0.159
+        },
+        "curv": {
+            "freq": 1,
+            "poids": 0.0795
+        },
+        "shock": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "wav": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "emit": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "nos": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "lead": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "edg": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "consequ": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "ex": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "inviscid": {
+            "freq": 3,
+            "poids": 0.4225
+        },
+        "rot": {
+            "freq": 2,
+            "poids": 0.2817
+        },
+        "reg": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "bound": {
+            "freq": 2,
+            "poids": 0.1326
+        },
+        "lay": {
+            "freq": 2,
+            "poids": 0.1326
+        },
+        "situ": {
+            "freq": 2,
+            "poids": 0.2817
+        },
+        "ar": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "inst": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "hyperson": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "somewh": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "diff": {
+            "freq": 1,
+            "poids": 0.0795
+        },
+        "prandtl": {
+            "freq": 2,
+            "poids": 0.2817
+        },
+        "class": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "boundary-layer": {
+            "freq": 3,
+            "poids": 0.2386
+        },
+        "problem": {
+            "freq": 4,
+            "poids": 0.2653
+        },
+        "origin": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "fre": {
+            "freq": 3,
+            "poids": 0.301
+        },
+        "stream": {
+            "freq": 3,
+            "poids": 0.2386
+        },
+        "outsid": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "irrot": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "must": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "poss": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "effect": {
+            "freq": 1,
+            "poids": 0.0663
+        },
+        "vort": {
+            "freq": 2,
+            "poids": 0.2007
+        },
+        "rec": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "discuss": {
+            "freq": 2,
+            "poids": 0.2817
+        },
+        "ferr": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "libby": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "pres": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "pap": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "investig": {
+            "freq": 1,
+            "poids": 0.1003
+        },
+        "shown": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "tre": {
+            "freq": 1,
+            "poids": 0.0795
+        },
+        "approxim": {
+            "freq": 1,
+            "poids": 0.0795
+        },
+        "novel": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "feat": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "const": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "restrict": {
+            "freq": 1,
+            "poids": 0.1408
+        },
+        "steady": {
+            "freq": 1,
+            "poids": 0.1003
+        }
+    },
+    "D3": {
+        "approxim": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "solv": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "incompress": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "lamin": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "bound": {
+            "freq": 4,
+            "poids": 0.3979
+        },
+        "lay": {
+            "freq": 4,
+            "poids": 0.3979
+        },
+        "equ": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "plat": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "shear": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "flow": {
+            "freq": 3,
+            "poids": 0.2568
+        },
+        "two-dimensional": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "steady": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "boundary-layer": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "problem": {
+            "freq": 1,
+            "poids": 0.0995
+        },
+        "flat": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "fluid": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "consid": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "thick": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "skin": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "frict": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "veloc": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "distribut": {
+            "freq": 1,
+            "poids": 0.0995
+        },
+        "obtain": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "karman-pohlhaus": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "techn": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "comparison": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "uniform": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "also": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "mad": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "show": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "effect": {
+            "freq": 1,
+            "poids": 0.0995
+        },
+        "vort": {
+            "freq": 1,
+            "poids": 0.1505
+        }
+    },
+    "D4": {
+        "exact": {
+            "freq": 2,
+            "poids": 0.2113
+        },
+        "solv": {
+            "freq": 8,
+            "poids": 0.6021
+        },
+        "neuman": {
+            "freq": 2,
+            "poids": 0.2113
+        },
+        "problem": {
+            "freq": 4,
+            "poids": 0.199
+        },
+        "calc": {
+            "freq": 3,
+            "poids": 0.1789
+        },
+        "non": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "circ": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "plan": {
+            "freq": 2,
+            "poids": 0.2113
+        },
+        "ax": {
+            "freq": 2,
+            "poids": 0.1505
+        },
+        "symmet": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "flow": {
+            "freq": 7,
+            "poids": 0.2996
+        },
+        "within": {
+            "freq": 2,
+            "poids": 0.2113
+        },
+        "arbit": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "bound": {
+            "freq": 2,
+            "poids": 0.0995
+        },
+        "gen": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "method": {
+            "freq": 4,
+            "poids": 0.301
+        },
+        "second": {
+            "freq": 2,
+            "poids": 0.1505
+        },
+        "boundary-value": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "develop": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "apply": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "low-speed": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "body": {
+            "freq": 5,
+            "poids": 0.2982
+        },
+        "almost": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "shap": {
+            "freq": 2,
+            "poids": 0.2113
+        },
+        "provid": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "eith": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "symmetry": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "solid-body": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "inlet": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "pur": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "intern": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "cap": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "deal": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "sev": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "pres": {
+            "freq": 3,
+            "poids": 0.2258
+        },
+        "on": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "anoth": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "consequ": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "interf": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "tre": {
+            "freq": 1,
+            "poids": 0.0596
+        },
+        "eas": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "nee": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "solid": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "involv": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "are": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "suct": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "veloc": {
+            "freq": 1,
+            "poids": 0.0596
+        },
+        "comput": {
+            "freq": 2,
+            "poids": 0.2113
+        },
+        "point": {
+            "freq": 3,
+            "poids": 0.3169
+        },
+        "surfac": {
+            "freq": 2,
+            "poids": 0.1505
+        },
+        "entir": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "field": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "sourc": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "distribut": {
+            "freq": 1,
+            "poids": 0.0497
+        },
+        "us": {
+            "freq": 3,
+            "poids": 0.1492
+        },
+        "bas": {
+            "freq": 1,
+            "poids": 0.0596
+        },
+        "lead": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "fredholm": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "integr": {
+            "freq": 1,
+            "poids": 0.0596
+        },
+        "equ": {
+            "freq": 2,
+            "poids": 0.1193
+        },
+        "kind": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "set": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "linear": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "algebra": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "mod": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "seidel": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "tim": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "program": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "ibm": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "704": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "edpm": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "prevy": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "ment": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "charact": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "whos": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "profil": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "defin": {
+            "freq": 2,
+            "poids": 0.2113
+        },
+        "satisfact": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "300": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "coordin": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "numb": {
+            "freq": 2,
+            "poids": 0.1193
+        },
+        "show": {
+            "freq": 1,
+            "poids": 0.0596
+        },
+        "scop": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "acc": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "requir": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "three": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "minut": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "two": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "hour": {
+            "freq": 1,
+            "poids": 0.1056
+        },
+        "depend": {
+            "freq": 1,
+            "poids": 0.0753
+        },
+        "upon": {
+            "freq": 1,
+            "poids": 0.1056
+        }
+    },
+    "D5": {
+        "second": {
+            "freq": 2,
+            "poids": 0.1204
+        },
+        "flow": {
+            "freq": 5,
+            "poids": 0.1712
+        },
+        "field": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "embed": {
+            "freq": 3,
+            "poids": 0.2535
+        },
+        "hyperson": {
+            "freq": 3,
+            "poids": 0.1806
+        },
+        "shock": {
+            "freq": 5,
+            "poids": 0.301
+        },
+        "lay": {
+            "freq": 3,
+            "poids": 0.1194
+        },
+        "ramp": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "compress": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "surfac": {
+            "freq": 3,
+            "poids": 0.1806
+        },
+        "loc": {
+            "freq": 4,
+            "poids": 0.338
+        },
+        "superson": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "reg": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "behind": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "bow": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "wav": {
+            "freq": 4,
+            "poids": 0.2408
+        },
+        "gen": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "disturb": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "may": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "view": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "newton": {
+            "freq": 7,
+            "poids": 0.5916
+        },
+        "impact": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "thin": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "examin": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "appl": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "the": {
+            "freq": 4,
+            "poids": 0.2408
+        },
+        "con": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "wedg": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "uniform": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "streams": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "suggest": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "expect": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "giv": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "us": {
+            "freq": 1,
+            "poids": 0.0398
+        },
+        "approxim": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "press": {
+            "freq": 10,
+            "poids": 0.6021
+        },
+        "equ": {
+            "freq": 2,
+            "poids": 0.0954
+        },
+        "bas": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "conceiv": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "predict": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "numb": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "interest": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "thing": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "first": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "diff": {
+            "freq": 2,
+            "poids": 0.0954
+        },
+        "simpl": {
+            "freq": 2,
+            "poids": 0.1204
+        },
+        "fact": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "1.5": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "3": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "exampl": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "flar": {
+            "freq": 4,
+            "poids": 0.338
+        },
+        "stabl": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "blunt-nosed": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "body": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "revolv": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "low": {
+            "freq": 2,
+            "poids": 0.1204
+        },
+        "dimin": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "increas": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "flight": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "spee": {
+            "freq": 2,
+            "poids": 0.1204
+        },
+        "rang": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "calc": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "vary": {
+            "freq": 3,
+            "poids": 0.2535
+        },
+        "result": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "nonuniform": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "incid": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "stream": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "depend": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "ax": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "cas": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "flap": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "mount": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "large-angled": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "coefficy": {
+            "freq": 3,
+            "poids": 0.2535
+        },
+        "1": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "5": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "entrop": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "gre": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "maxim": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "poss": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "occ": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "process": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "efficy": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "singl": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "area": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "protrud": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "main": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "revert": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "valu": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "develop": {
+            "freq": 1,
+            "poids": 0.0602
+        },
+        "init": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "slop": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "normal-force": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "pitching-moment": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "curv": {
+            "freq": 1,
+            "poids": 0.0477
+        },
+        "simplest": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "conv": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "ratio": {
+            "freq": 2,
+            "poids": 0.1204
+        },
+        "dynam": {
+            "freq": 2,
+            "poids": 0.169
+        },
+        "free-stream": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "tak": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "0.1": {
+            "freq": 1,
+            "poids": 0.0845
+        },
+        "consid": {
+            "freq": 1,
+            "poids": 0.0477
+        }
+    },
+    "D6": {
+        "press": {
+            "freq": 4,
+            "poids": 0.6021
+        },
+        "boundary-layer": {
+            "freq": 3,
+            "poids": 0.3578
+        },
+        "meas": {
+            "freq": 2,
+            "poids": 0.4225
+        },
+        "two": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "dimend": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "wing": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "low": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "spee": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "result": {
+            "freq": 2,
+            "poids": 0.2386
+        },
+        "giv": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "travers": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "two-dimensional": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "10": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "per": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "cent": {
+            "freq": 2,
+            "poids": 0.4225
+        },
+        "rae": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "101": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "sect": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "reynold": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "numb": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "1.6x10": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "3.2x10": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "integr": {
+            "freq": 1,
+            "poids": 0.1193
+        },
+        "lift": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "drag": {
+            "freq": 2,
+            "poids": 0.4225
+        },
+        "aerodynamic-centre": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "charact": {
+            "freq": 2,
+            "poids": 0.301
+        },
+        "us": {
+            "freq": 1,
+            "poids": 0.0995
+        },
+        "check": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "calc": {
+            "freq": 3,
+            "poids": 0.3578
+        },
+        "method": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "grow": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "turb": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "bound": {
+            "freq": 3,
+            "poids": 0.2985
+        },
+        "lay": {
+            "freq": 3,
+            "poids": 0.2985
+        },
+        "effect": {
+            "freq": 3,
+            "poids": 0.2985
+        },
+        "known": {
+            "freq": 2,
+            "poids": 0.4225
+        },
+        "distribut": {
+            "freq": 2,
+            "poids": 0.199
+        },
+        "conclud": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "stil": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "nee": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "littl": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "refin": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "acc": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "enough": {
+            "freq": 1,
+            "poids": 0.2113
+        },
+        "predict": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "viscos": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "aerodynam": {
+            "freq": 1,
+            "poids": 0.1505
+        },
+        "act": {
+            "freq": 1,
+            "poids": 0.2113
+        }
+    }
+}
